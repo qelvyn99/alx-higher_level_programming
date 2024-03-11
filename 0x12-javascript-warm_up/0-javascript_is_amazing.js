@@ -1,1 +1,3 @@
-centerAlignText(const cha *text);centerAlignText(const char *text);
+#!/usr/bin/node
+const myVar = 'JavaScript is amazing';
+console.log(myVar);
